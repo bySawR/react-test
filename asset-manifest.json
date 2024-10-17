@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bysawr.github.io/react-test/static/css/main.cc4b3944.css",
+    "main.js": "/bysawr.github.io/react-test/static/js/main.cd13b1cc.js",
+    "index.html": "/bysawr.github.io/react-test/index.html",
+    "main.cc4b3944.css.map": "/bysawr.github.io/react-test/static/css/main.cc4b3944.css.map",
+    "main.cd13b1cc.js.map": "/bysawr.github.io/react-test/static/js/main.cd13b1cc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc4b3944.css",
+    "static/js/main.cd13b1cc.js"
+  ]
+}
